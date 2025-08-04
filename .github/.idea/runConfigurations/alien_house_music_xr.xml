@@ -1,0 +1,28 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="alien_house_music-xr" type="Application" factoryName="Application" folderName="Nmodel.infer(   img: tf.Tensor3D | ImageData | HTMLImageElement |       HTMLCanvasElement | HTMLVideoElement,   embedding = false )ew Folder" editBeforeRun="true">
+    <option name="ALTERNATIVE_JRE_PATH" value="Python 3.11 (GreenSoftwareDirectory)" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <classpathModifications>
+      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\Another_copy_of_another_copy_of_snippets_importing_libraries_ipynb_magenta.ipynb" />
+      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\ALIEN HOUSE MUSIC" />
+      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\Another_copy_of_Copy_of_Alien_house_music_algorithm_blueprint_ipynb_new1000.ipynb" />
+      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\Hello_Magenta.ipynb" />
+      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\Another_copy_of_ALIEN_HOUSE_MUSIC_112.ipynb" />
+      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\CONTRIBUTING.md" />
+      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\Copy_of_ALIEN_HOUSE_MUSIC_112.ipynb" />
+      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\Copy_of_Alien_house_music_algorithm_blueprint.ipynb" />
+      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\LICENSE.txt" />
+    </classpathModifications>
+    <option name="envFilePaths">
+      <option value="$PROJECT_DIR$/Copy_of_another_copy_of_snippets_importing_libraries_ipynb_magenta_101.ipynb" />
+    </option>
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value=" */" />
+    <module name="GreenSoftwareDirectory" />
+    <option name="PROGRAM_PARAMETERS" value="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\ALIEN HOUSE MUSIC" />
+    <option name="WORKING_DIRECTORY" value="G:/" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,93 @@
+Index: .idea/runConfigurations/alien_house_music_xr.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/runConfigurations/alien_house_music_xr.xml b/.idea/runConfigurations/alien_house_music_xr.xml
+deleted file mode 100644
+--- a/.idea/runConfigurations/alien_house_music_xr.xml	(revision 526700ec2e462df4fe5ae6917013fc093ccb2580)
++++ /dev/null	(revision 526700ec2e462df4fe5ae6917013fc093ccb2580)
+@@ -1,9 +0,0 @@
+-<component name="ProjectRunConfigurationManager">
+-  <configuration default="false" name="alien_house_music-xr" type="Application" factoryName="Application" folderName="Nmodel.infer(   img: tf.Tensor3D | ImageData | HTMLImageElement |       HTMLCanvasElement | HTMLVideoElement,   embedding = false )ew Folder">
+-    <option name="MAIN_CLASS_NAME" value=" */" />
+-    <module name="GreenSoftwareDirectory" />
+-    <method v="2">
+-      <option name="Make" enabled="true" />
+-    </method>
+-  </configuration>
+-</component>
+\ No newline at end of file
+Index: .github/.idea/runConfigurations/alien_house_music_xr.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.github/.idea/runConfigurations/alien_house_music_xr.xml b/.github/.idea/runConfigurations/alien_house_music_xr.xml
+new file mode 100644
+--- /dev/null	(date 1754281764221)
++++ b/.github/.idea/runConfigurations/alien_house_music_xr.xml	(date 1754281764221)
+@@ -0,0 +1,28 @@
++<component name="ProjectRunConfigurationManager">
++  <configuration default="false" name="alien_house_music-xr" type="Application" factoryName="Application" folderName="Nmodel.infer(   img: tf.Tensor3D | ImageData | HTMLImageElement |       HTMLCanvasElement | HTMLVideoElement,   embedding = false )ew Folder" editBeforeRun="true">
++    <option name="ALTERNATIVE_JRE_PATH" value="Python 3.11 (GreenSoftwareDirectory)" />
++    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
++    <classpathModifications>
++      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\Another_copy_of_another_copy_of_snippets_importing_libraries_ipynb_magenta.ipynb" />
++      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\ALIEN HOUSE MUSIC" />
++      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\Another_copy_of_Copy_of_Alien_house_music_algorithm_blueprint_ipynb_new1000.ipynb" />
++      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\Hello_Magenta.ipynb" />
++      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\Another_copy_of_ALIEN_HOUSE_MUSIC_112.ipynb" />
++      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\CONTRIBUTING.md" />
++      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\Copy_of_ALIEN_HOUSE_MUSIC_112.ipynb" />
++      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\Copy_of_Alien_house_music_algorithm_blueprint.ipynb" />
++      <entry path="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\LICENSE.txt" />
++    </classpathModifications>
++    <option name="envFilePaths">
++      <option value="$PROJECT_DIR$/Copy_of_another_copy_of_snippets_importing_libraries_ipynb_magenta_101.ipynb" />
++    </option>
++    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
++    <option name="MAIN_CLASS_NAME" value=" */" />
++    <module name="GreenSoftwareDirectory" />
++    <option name="PROGRAM_PARAMETERS" value="C:\Users\colin\AndroidStudioProjects\GreenSoftwareDirectory\ALIEN HOUSE MUSIC" />
++    <option name="WORKING_DIRECTORY" value="G:/" />
++    <method v="2">
++      <option name="Make" enabled="true" />
++    </method>
++  </configuration>
++</component>
+\ No newline at end of file
+Index: .idea/GreenSoftwareDirectory.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/GreenSoftwareDirectory.iml b/.github/.idea/GreenSoftwareDirectory.iml
+rename from .idea/GreenSoftwareDirectory.iml
+rename to .github/.idea/GreenSoftwareDirectory.iml
+--- a/.idea/GreenSoftwareDirectory.iml	(revision 526700ec2e462df4fe5ae6917013fc093ccb2580)
++++ b/.github/.idea/GreenSoftwareDirectory.iml	(date 1754282306718)
+@@ -2,7 +2,7 @@
+ <module type="JAVA_MODULE" version="4">
+   <component name="NewModuleRootManager" inherit-compiler-output="true">
+     <exclude-output />
+-    <content url="file://$MODULE_DIR$" />
++    <content url="file://$MODULE_DIR$/.." />
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+diff --git a/.idea/runConfigurations/_template__of_Maven.xml b/.github/.idea/runConfigurations/_template__of_Maven.xml
+rename from .idea/runConfigurations/_template__of_Maven.xml
+rename to .github/.idea/runConfigurations/_template__of_Maven.xml
+diff --git a/.idea/modules.xml b/.github/.idea/modules.xml
+rename from .idea/modules.xml
+rename to .github/.idea/modules.xml
+diff --git a/.idea/misc.xml b/.github/.idea/misc.xml
+rename from .idea/misc.xml
+rename to .github/.idea/misc.xml
+diff --git a/.idea/vcs.xml b/.github/.idea/vcs.xml
+rename from .idea/vcs.xml
+rename to .github/.idea/vcs.xml
+diff --git a/.idea/.gitignore b/.github/.idea/.gitignore
+rename from .idea/.gitignore
+rename to .github/.idea/.gitignore
